@@ -7,7 +7,7 @@
 Run the following command in Magento 2 root folder:
 
 ```
-composer require mageinic/speak-search-graph-ql 
+composer require mageinic/speak-search-graphql 
 
 php bin/magento maintenance:enable
 php bin/magento setup:upgrade
@@ -22,12 +22,12 @@ Magento 2 Speak Search GraphQL requires installing [MageINIC Speak Search](https
 
 **Or Install via composer [Recommend]**
 ```
-composer require mageinic/speaksearch
+composer require mageinic/speak-search
 ```
 
 ## 2. How to use
 
-- To view the queries that the **MageINIC Speak Search GraphQL** extension supports, you can check `SpeakSearch GraphQl User Guide.pdf` Or run `Speaksearch Graphql.postman_collection.json` in Postman.
+- To view the queries that the **MageINIC Speak Search GraphQL** extension supports, you can check `Speak Search GraphQl User Guide.pdf` Or run `Speaksearch Graphql.postman_collection.json` in Postman.
 
 ## 3. Get Support
 
